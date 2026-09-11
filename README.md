@@ -155,10 +155,10 @@ For production authentication setup, see [Authentication](https://docs.eudiplo.d
 Use the current documentation:
 
 - 🚀 **Documentation**: [https://docs.eudiplo.dev/](https://docs.eudiplo.dev/)
-- **Legacy documentation**: [https://openwallet-foundation.github.io/eudiplo/docs/latest/](https://openwallet-foundation.github.io/eudiplo/docs/latest/)
+- **Legacy documentation**: [https://docs.eudiplo.dev/](https://docs.eudiplo.dev/)
 
 The current documentation reflects the active release. For older releases,
-use the [legacy documentation archive](https://openwallet-foundation.github.io/eudiplo/docs/latest/).
+use the [legacy documentation archive](https://docs.eudiplo.dev/).
 
 **Key sections:**
 
